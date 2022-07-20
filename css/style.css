@@ -8,7 +8,7 @@ body {
 header {
   background-color: rgb(49, 49, 49);
   height: 100px;
-  margin-bottom: 30px;
+  
 }
 
 nav {
@@ -108,4 +108,11 @@ article > h3:hover{
 
 article > h3:active{
   background-color: #661670;
+}
+
+footer{
+  margin-top: 20px;
+  width: 960px;
+  height: 100px;
+  background-color: black;
 }
